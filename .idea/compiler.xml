@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hibernate-end" />
+        <module name="hibernate-start" />
+        <module name="jdbc-template-end" />
+        <module name="jdbc-template-start" />
+        <module name="pure-jdbc-end" />
+        <module name="pure-jdbc-start" />
+        <module name="spring-data-repository-end" />
+        <module name="spring-data-repository-start" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
